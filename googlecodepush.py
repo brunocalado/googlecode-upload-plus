@@ -11,7 +11,7 @@ import sys
 # --------------------------------------------------------------------------------
 # Variables and Constants
 # --------------------------------------------------------------------------------
-debug = 1
+debug = 0
 googlecodeproject = '' 
 googlecodeuser = ''
 googlecodepassword = ''
